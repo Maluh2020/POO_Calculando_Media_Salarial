@@ -1,0 +1,12 @@
+C:\Users\Maluh64\Documents\C# COMPLETO UDEMY\ExerciciosSetembro\Funcionarios\Funcionarios\bin\Debug\netcoreapp3.1\Funcionarios.exe
+C:\Users\Maluh64\Documents\C# COMPLETO UDEMY\ExerciciosSetembro\Funcionarios\Funcionarios\bin\Debug\netcoreapp3.1\Funcionarios.deps.json
+C:\Users\Maluh64\Documents\C# COMPLETO UDEMY\ExerciciosSetembro\Funcionarios\Funcionarios\bin\Debug\netcoreapp3.1\Funcionarios.runtimeconfig.json
+C:\Users\Maluh64\Documents\C# COMPLETO UDEMY\ExerciciosSetembro\Funcionarios\Funcionarios\bin\Debug\netcoreapp3.1\Funcionarios.runtimeconfig.dev.json
+C:\Users\Maluh64\Documents\C# COMPLETO UDEMY\ExerciciosSetembro\Funcionarios\Funcionarios\bin\Debug\netcoreapp3.1\Funcionarios.dll
+C:\Users\Maluh64\Documents\C# COMPLETO UDEMY\ExerciciosSetembro\Funcionarios\Funcionarios\bin\Debug\netcoreapp3.1\Funcionarios.pdb
+C:\Users\Maluh64\Documents\C# COMPLETO UDEMY\ExerciciosSetembro\Funcionarios\Funcionarios\obj\Debug\netcoreapp3.1\Funcionarios.AssemblyInfoInputs.cache
+C:\Users\Maluh64\Documents\C# COMPLETO UDEMY\ExerciciosSetembro\Funcionarios\Funcionarios\obj\Debug\netcoreapp3.1\Funcionarios.AssemblyInfo.cs
+C:\Users\Maluh64\Documents\C# COMPLETO UDEMY\ExerciciosSetembro\Funcionarios\Funcionarios\obj\Debug\netcoreapp3.1\Funcionarios.csproj.CoreCompileInputs.cache
+C:\Users\Maluh64\Documents\C# COMPLETO UDEMY\ExerciciosSetembro\Funcionarios\Funcionarios\obj\Debug\netcoreapp3.1\Funcionarios.dll
+C:\Users\Maluh64\Documents\C# COMPLETO UDEMY\ExerciciosSetembro\Funcionarios\Funcionarios\obj\Debug\netcoreapp3.1\Funcionarios.pdb
+C:\Users\Maluh64\Documents\C# COMPLETO UDEMY\ExerciciosSetembro\Funcionarios\Funcionarios\obj\Debug\netcoreapp3.1\Funcionarios.genruntimeconfig.cache
